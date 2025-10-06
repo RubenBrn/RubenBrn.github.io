@@ -1,0 +1,5 @@
+- La **wolframite** (Fe,Mn,Mg)WO4, est un minéral constitué de ==tungstate de fer== et de manganèse qui n'est pas une espèce mais un nom de groupe dont les termes extrêmes sont représentés par la ferbérite (pôle fer, FeWO4) et l'hübnérite (pôle manganèse, MnWO4), la proportion d'oxyde de tungstène est toujours comprise entre 76 et 80 %
+- Le **coltan** ([mot-valise](https://fr.m.wikipedia.org/wiki/Mot-valise "Mot-valise") pour **colombite-tantalite**) est un [minerai](https://fr.m.wikipedia.org/wiki/Minerai "Minerai") de couleur noire ou brun-rouge dont on extrait le [niobium](https://fr.m.wikipedia.org/wiki/Niobium "Niobium") (d'abord appelé colombium) et le [tantale](https://fr.m.wikipedia.org/wiki/Tantale_\(chimie\) "Tantale (chimie)"). Il est formé par l'association de deux [minéraux](https://fr.m.wikipedia.org/wiki/Min%C3%A9ral "Minéral"), la [colombite](https://fr.m.wikipedia.org/wiki/Columbite "Columbite") (ou columbite) [(Fe, Mn)Nb2O6] et la [tantalite](https://fr.m.wikipedia.org/wiki/Tantalite "Tantalite") [(Fe, Mn)(Ta, Nb)2O6], en proportion variable.
+
+# Éléments chimiques 
+- tantale (Ta, 73) très résistant à la corrosion et aux acides 
